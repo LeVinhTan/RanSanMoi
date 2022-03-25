@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\visual project - rắn săn mồi\ransanmoi\ransanmoi\ransanmoi\source.cpp(868): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual project - rắn săn mồi\ransanmoi\ransanmoi\ransanmoi\source.cpp(905): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual project - rắn săn mồi\ransanmoi\ransanmoi\ransanmoi\source.cpp(708): warning C4715: 'ktgameOver2': not all control paths return a value
+d:\visual project - rắn săn mồi\ransanmoi\ransanmoi\ransanmoi\source.cpp(695): warning C4715: 'ktgameOver': not all control paths return a value
+d:\visual project - rắn săn mồi\ransanmoi\ransanmoi\ransanmoi\source.cpp(783): warning C4715: 'ktgameWin': not all control paths return a value
+  RanSanMoi.vcxproj -> D:\Visual Project - Rắn Săn Mồi\RanSanMoi\RanSanMoi\Debug\RanSanMoi.exe
+  RanSanMoi.vcxproj -> D:\Visual Project - Rắn Săn Mồi\RanSanMoi\RanSanMoi\Debug\RanSanMoi.pdb (Partial PDB)
